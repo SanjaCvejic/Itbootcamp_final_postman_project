@@ -2,7 +2,7 @@
 
 https://documenter.getpostman.com/view/23503034/2s8479zx1L
 
-Features
+<h2> Features </h2> 
 
 - Vuetify
 - Multiple environment ready (development, production).

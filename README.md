@@ -1,4 +1,4 @@
-# final_postman_project
+# Itbootcamp_final_postman_project
 
 https://documenter.getpostman.com/view/23503034/2s8479zx1L
 
